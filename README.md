@@ -38,7 +38,7 @@
 
 ### Evaluating the model:
   * based on purity of clusters
-  * SILHOUETTE SCORE of 0.35 shows that the clusters are not well separated and cohesion of datapoints within the cluster is weak.
+  * SILHOUETTE SCORE of 0.44 shows that the clusters are not well separated and cohesion of datapoints within the cluster is weak.
 
 ### Conclusion:
   * Thus customers into 5 different buckets based similarity between the products purchased between the users , the spending patterns of a user, their meta information, etc.
